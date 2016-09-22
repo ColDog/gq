@@ -1,0 +1,17 @@
+{
+  "name": "gq.js",
+  "version": "0.0.1",
+  "description": "Gq graph query engine client",
+  "main": "index.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Walker",
+  "license": "MIT",
+  "repository": ,
+  "dependencies": {
+    "browser-request": "^0.3.3",
+    "request": "^2.75.0"
+  }
+}
